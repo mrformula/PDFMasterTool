@@ -49,7 +49,7 @@ bash pip install PyMuPDF rich Pillow numpy opencv-python
 git clone https://github.com/yourusername/pdf-master-tool.git
 
 cd pdf-master-tool
-\```
+```
 
 2. প্রয়োজনীয় ফোল্ডার তৈরি করুন:
 - `input` - ইনপুট PDF ফাইল রাখার জন্য
@@ -102,8 +102,4 @@ python pdf_master.py
 ## 📄 লাইসেন্স
 এই প্রজেক্টটি MIT লাইসেন্সের আওতায় প্রকাশিত। বিস্তারিত [LICENSE](LICENSE) ফাইলে দেখুন। 
 
-   \```bash
-# এখানে আপনার কোড লিখুন
-pip install PyMuPDF rich Pillow numpy opencv-python
-\```
 
